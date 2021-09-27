@@ -1,0 +1,15 @@
+
+.list_item > img {
+  margin-left: 0.5rem;
+  margin-top: 1rem;
+}
+
+.list_item{
+  position: relative;
+}
+
+.image_preview{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 3rem;
+}

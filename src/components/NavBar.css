@@ -1,0 +1,18 @@
+#top_nav{
+    background-color: #000;
+}
+
+#nav_list{
+    margin: 0px;
+    display: flex;
+    list-style: none;
+}
+
+.nav_list_item{
+    padding: 0.5rem;
+}
+
+#top_nav a{
+    margin-left: 0.4rem;
+    color: #eee;
+}

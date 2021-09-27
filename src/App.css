@@ -1,0 +1,7 @@
+.home {
+    display: flex;
+    margin: 4rem auto;
+    padding: 2rem;
+    flex-wrap: wrap;
+}
+
