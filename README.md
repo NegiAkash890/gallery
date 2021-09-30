@@ -26,4 +26,4 @@ Tech Stack
 
 This is a simple react redux application with CRUD functionality
 
-Note : When the page first render `home` link on navigation needs to be click to view current collection 
+
